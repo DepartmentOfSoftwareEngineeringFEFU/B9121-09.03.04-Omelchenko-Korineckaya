@@ -1,0 +1,102 @@
+[
+  {
+    "term_name": "Общее состояние",
+    "feature_name": null,
+    "value_name": "удовлетворительное"
+  },
+  {
+    "term_name": "Сознание",
+    "feature_name": null,
+    "value_name": "ясное"
+  },
+  {
+    "term_name": "Телосложение",
+    "feature_name": null,
+    "value_name": "правильное"
+  },
+  {
+    "term_name": "Питание",
+    "feature_name": null,
+    "value_name": "нормальное"
+  },
+  {
+    "term_name": "Окраска кожных покровов",
+    "feature_name": null,
+    "value_name": "обычная"
+  },
+  {
+    "term_name": "Влажность кожных покровов",
+    "feature_name": null,
+    "value_name": "нормальные"
+  },
+  {
+    "term_name": "Лимфоузлы",
+    "feature_name": "Пальпируются",
+    "value_name": "нет"
+  },
+  {
+    "term_name": "Молочные железы",
+    "feature_name": "Особенности",
+    "value_name": "нет"
+  },
+  {
+    "term_name": "Щитовидная железа",
+    "feature_name": "Особенности",
+    "value_name": "нет"
+  },
+  {
+    "term_name": "Костно-мышечный аппарат",
+    "feature_name": "Особенности",
+    "value_name": "нет"
+  },
+  {
+    "term_name": "Отеки",
+    "feature_name": "Наличие",
+    "value_name": "нет"
+  },
+  {
+    "term_name": "Границы сердца",
+    "feature_name": "Правая",
+    "value_name": "на 1 см кнаружи от правого края грудины"
+  },
+  {
+    "term_name": "Границы сердца",
+    "feature_name": "Верхняя",
+    "value_name": "по III - ребру"
+  },
+  {
+    "term_name": "Границы сердца",
+    "feature_name": "Левая",
+    "value_name": "по левой средне-ключичной линии"
+  },
+  {
+    "term_name": "Тоны сердца",
+    "feature_name": "Ритмичные",
+    "value_name": "да"
+  },
+  {
+    "term_name": "ЧСС",
+    "feature_name": null,
+    "value_name": "72"
+  },
+  {
+    "term_name": "Пульс",
+    "feature_name": null,
+    "value_name": "72"
+  },
+  {
+    "term_name": "АД",
+    "feature_name": null,
+    "value_name": "140/80"
+  },
+  {
+    "term_name": "Шум",
+    "feature_name": "Отсутствует",
+    "value_name": "да"
+  },
+  {
+    "term_name": "Боль",
+    "feature_name": null,
+    "value_name": "Периодически"
+  }
+]
